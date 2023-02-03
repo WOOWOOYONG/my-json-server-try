@@ -4,7 +4,7 @@
       "id": 1,
       "region": "北區",
       "clientName": "台北101",
-      "date": "2022/11/13",
+      "date": "2022-11-13",
       "product": "商品A",
       "quantity": 5,
       "description": "VIP客戶，請確實品檢"
@@ -12,7 +12,7 @@
     {
       "region": "中區",
       "clientName": "台中植物園",
-      "date": "2022/11/20",
+      "date": "2022-11-20",
       "product": "商品B",
       "quantity": "6",
       "description": "數量可能會再變更",
@@ -21,7 +21,7 @@
     {
       "region": "南區",
       "clientName": "高雄巨蛋",
-      "date": "2022/12/10",
+      "date": "2022-12-10",
       "product": "商品C",
       "quantity": "3",
       "description": "可能提前到12/3出貨",
@@ -30,7 +30,7 @@
     {
       "region": "南區",
       "clientName": "高雄流行音樂中心",
-      "date": "2022/12/15",
+      "date": "2022-12-15",
       "product": "商品A",
       "quantity": "2",
       "description": "無",
@@ -39,7 +39,7 @@
     {
       "region": "北區",
       "clientName": "六福村",
-      "date": "2023/2/3",
+      "date": "2023-2-3",
       "product": "商品A",
       "quantity": "8",
       "description": "無",
@@ -48,7 +48,7 @@
     {
       "region": "南區",
       "clientName": "台南美術館",
-      "date": "2023/2/10",
+      "date": "2023-2-10",
       "product": "商品C",
       "quantity": "4",
       "description": "需求日期可能會再更改",
@@ -57,7 +57,7 @@
     {
       "region": "中區",
       "clientName": "台中歌劇院",
-      "date": "2023/3/3",
+      "date": "2023-3-3",
       "product": "商品B",
       "quantity": "7",
       "description": "若無法準時交貨會有罰款",
