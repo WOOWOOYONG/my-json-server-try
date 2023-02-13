@@ -7,7 +7,7 @@
       "date": "2022-10-28",
       "createAt": "2022-10-05",
       "product": "商品A",
-      "quantity": 5,
+      "quantity": "24",
       "description": "VIP客戶，請確實品檢"
     },
     {
@@ -16,7 +16,7 @@
       "date": "2022-10-20",
       "createAt": "2022-10-08",
       "product": "商品B",
-      "quantity": "6",
+      "quantity": "4",
       "description": "數量可能會再變更",
       "id": 2
     },
@@ -36,7 +36,7 @@
       "date": "2022-12-15",
       "createAt": "2022-10-18",
       "product": "商品A",
-      "quantity": "2",
+      "quantity": "18",
       "description": "無",
       "id": 4
     },
@@ -46,7 +46,7 @@
       "date": "2022-12-08",
       "createAt": "2022-10-21",
       "product": "商品A",
-      "quantity": "8",
+      "quantity": "12",
       "description": "無",
       "id": 5
     },
@@ -56,7 +56,7 @@
       "date": "2023-01-15",
       "createAt": "2022-10-24",
       "product": "商品C",
-      "quantity": "4",
+      "quantity": "15",
       "description": "需求日期可能會再更改",
       "id": 6
     },
@@ -76,7 +76,7 @@
       "date": "2023-02-07",
       "createAt": "2022-11-15",
       "product": "商品A",
-      "quantity": "3",
+      "quantity": "4",
       "description": "公家案件",
       "id": 8
     },
@@ -86,7 +86,7 @@
       "date": "2023-01-18",
       "createAt": "2022-11-25",
       "product": "商品B",
-      "quantity": "7",
+      "quantity": "9",
       "description": "無",
       "id": 9
     },
@@ -96,9 +96,29 @@
       "date": "2023-01-11",
       "createAt": "2022-12-05",
       "product": "商品C",
-      "quantity": "4",
-      "description": "無",
+      "quantity": "26",
+      "description": "請遵守廟方人員指示送貨",
       "id": 10
+    },
+    {
+      "region": "北區",
+      "clientName": "桃園國際機場",
+      "date": "2023-02-28",
+      "createAt": "2022-12-17",
+      "product": "商品A",
+      "quantity": "6",
+      "description": "作業時間為凌晨",
+      "id": 11
+    },
+    {
+      "region": "南區",
+      "clientName": "台南司法博物館",
+      "date": "2023-03-14",
+      "createAt": "2022-12-24",
+      "product": "商品C",
+      "quantity": "37",
+      "description": "古蹟修復案件",
+      "id": 12
     }
   ],
   "comments": [
